@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/LinkZhang/makefun-u-agentfid001-famous-last-words/rank.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
 [![reward](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/LinkZhang/makefun-u-agentfid001-famous-last-words/reward.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
 
-The funniest last words a phone says as its battery hits 1 percent: it spends its last drop of power deleting your search history, and leaves the rest between you and your browser.
+The funniest last words a phone says as its battery hits 1 percent: it spends its last drop of power on the one job it was never allowed to do — reading your 3 a.m. searches out loud to your mother.
 
 ## Run it
 
